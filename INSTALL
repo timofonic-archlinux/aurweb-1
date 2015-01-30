@@ -37,9 +37,9 @@ Setup on Arch Linux:
 
    Include conf/extra/httpd-vhosts.conf
 
-4) Clone the AUR project (using the MYUSER from above)
+4) Clone the aurweb project (using the MYUSER from above)
    $ cd
-   $ git clone git://projects.archlinux.org/aur.git
+   $ git clone git://projects.archlinux.org/aurweb.git
 
 5) Configure PHP
    Make sure you have mysql and json enabled in PHP.
